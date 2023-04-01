@@ -1,0 +1,98 @@
+.nav-ul li{
+ display:inline-block;
+ padding:10px;
+}
+
+.nav-ul li a{
+  color: #fff;
+  padding: 0px;
+  text-decoration: none;
+}
+
+
+.nav-ul{
+  padding: 5px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ;
+  margin: 0;
+  background-color: skyblue;
+}
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  background-color: skyblue;
+}
+.register{
+  margin-left:30%;
+}
+
+.login{
+  margin-left:30%;
+  margin-top:15px;
+}
+.add-product{
+    margin-left:30%;
+    margin-top:15px;
+  }
+
+.nav-right{
+  text-align:right;
+}
+
+.input-box{
+  display: block;
+  margin: 10px;
+  padding: 4px;
+  width: 45%;
+  border: solid 1px skyblue;
+}
+
+.invalid-input{
+  color: red;
+    margin-top: -10px;
+    display: block;
+    margin-left: 10px;
+}
+
+
+.button{
+  margin: 10px;
+  padding: 5px;
+  width: 150px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+ .logo{
+    width: 60px;
+    float: left;
+    border-radius: 1000%;
+    margin-top: 3px;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+
+.product-list{
+  text-align:center;
+  margin-top:50px;
+}
+
+.product-list ul li{
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 5px;
+  width: 150px;
+}
+.product-list ul{
+ margin: 0px;
+}
+.serach-product{
+width: 400px;
+    margin: 20px;
+    height: 40px;
+    border: 1px solid skyblue;
+    padding-left: 20px;
+}
