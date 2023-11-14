@@ -32,8 +32,6 @@ const SignUp = () => {
         }
 
     }
-
-
     return (
         <div className="register">
             <h3>Users Registration</h3>
